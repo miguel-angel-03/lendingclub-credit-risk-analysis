@@ -21,4 +21,4 @@ The final executive dashboard detailing these insights, designed for stakeholder
 **https://public.tableau.com/views/LendingClubCreditRiskAnalysis_17756666036330/Dashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 
 ## Repository Contents
-The entirety of the data cleaning, exploratory data analysis, business logic, and link to the visualization are contained within a single Python notebook: `https://www.kaggle.com/code/mvillarreal03/lendingclub-credit-risk-analysis`.
+The entirety of the data cleaning, exploratory data analysis, business logic, and link to the visualization are contained within a single Python notebook: **https://www.kaggle.com/code/mvillarreal03/lendingclub-credit-risk-analysis**.
